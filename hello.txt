@@ -1,4 +1,4 @@
 hello
 第一次修改
 第二次修改-测试分支合并冲突-master
-Hot-fix 第一次提交
+Hot-fix 第一次提交 测试hot-fix分支代码合并冲突
